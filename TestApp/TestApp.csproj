@@ -6,4 +6,9 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\TestApp_DataAccess\TestApp_DataAccess.csproj" />
+    <ProjectReference Include="..\TestApp_Models\TestApp_Models.csproj" />
+  </ItemGroup>
+
 </Project>

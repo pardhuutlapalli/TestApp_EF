@@ -1,4 +1,4 @@
-namespace TestApp.Models
+namespace TestApp_Models.Models
 {
     public class ErrorViewModel
     {
